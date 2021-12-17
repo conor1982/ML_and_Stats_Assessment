@@ -2,24 +2,8 @@ matplotlib
 pandas
 numpy
 seaborn
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import scale
-from sklearn.svm import SVC
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import plot_confusion_matrix
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import cross_val_score
-import sklearn.linear_model as lm
-from sklearn import metrics
-from sklearn import svm
-from sklearn import datasets
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import KFold
-sklearn.metrics
-sklearn.preprocessing
-sklearn.linear_model
+sklearn
+
 
 
 
