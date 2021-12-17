@@ -2,13 +2,7 @@ matplotlib
 pandas
 numpy
 seaborn
-sklearn.neighbors
-sklearn.model_selection
-sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-sklearn.svm
-sklearn.metrics
-sklearn.preprocessing
-sklearn.linear_model
+sklearn
 
 
 
