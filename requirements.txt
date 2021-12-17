@@ -4,7 +4,7 @@ numpy
 seaborn
 sklearn.neighbors
 sklearn.model_selection
-sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+sklearn.ensemble
 sklearn.svm
 sklearn.metrics
 sklearn.preprocessing
