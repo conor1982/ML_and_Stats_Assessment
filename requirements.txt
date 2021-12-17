@@ -3,6 +3,10 @@ pandas
 numpy
 seaborn
 sklearn
+<<<<<<< HEAD
+=======
+
+>>>>>>> cf55aa30cc3dbc1b25f2269e02b96db4214ecd6e
 
 
 
