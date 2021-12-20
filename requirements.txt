@@ -3,5 +3,9 @@ pandas
 numpy
 seaborn
 sklearn
+statsmodel
+collections
+scipy
+
 
 
