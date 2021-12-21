@@ -3,7 +3,7 @@ pandas
 numpy
 seaborn
 sklearn
-statsmodel
+statsmodels
 collections
 scipy
 
